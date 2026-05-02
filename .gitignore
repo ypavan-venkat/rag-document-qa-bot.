@@ -1,0 +1,17 @@
+# Secret Keys
+.env
+
+# Virtual Environment
+myenv/
+venv/
+env/
+
+# Vector Database (Let the grader build their own)
+chroma_db/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# OS Files
+.DS_Store
