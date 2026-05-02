@@ -75,8 +75,3 @@ pip install -r requirements.txt
 ## ⚠️ Known Limitations
 *   **Math Rendering:** Basic PDF parsers occasionally struggle with complex Greek symbols in academic formulas[cite: 1].
 *   **Local Hardware:** Initial embedding speed depends on local CPU performance[cite: 1].
-
----
-
-### **One Last Step for Your Submission:**
-Once you paste this into your `README.md`, make sure you record your **5-minute demo video** showing the bot in action[cite: 1]!
